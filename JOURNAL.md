@@ -18,3 +18,9 @@ watched a video on how to setup the footprint and symbols in kicad
 made the key matrix of 3x3 (minus the 1) 
 ![alt text](image-2.png)
 **Time Spent:** 2hrs
+
+## 26 May
+### Built the Firmware
+edited the romac keyboard template to fit the 3x3 layout with some basic letter keys
+**Time Spent**
+30mins
